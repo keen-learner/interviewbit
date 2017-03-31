@@ -20,7 +20,6 @@
 * [Graphs](https://github.com/keen-learner/interviewbit#graphs)
 
 ## Arrays
-Count = 12
 | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 [Add One To Number](https://www.interviewbit.com/problems/add-one-to-number/) | [C++](./arrays/AddOneToNumber.cpp) | |tricky  | 28 March 2017 |
