@@ -3,7 +3,7 @@
 
 ## Algorithms
 
-* [Arrays](https://github.com/keen-learner/interviewbit#arrays)
+* [Arrays (Count = 12)](https://github.com/keen-learner/interviewbit#arrays)
 * [Math](https://github.com/keen-learner/interviewbit#math)
 * [Binary Search](https://github.com/keen-learner/interviewbit#binary-search)
 * [Strings](https://github.com/keen-learner/interviewbit#strings)
