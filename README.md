@@ -1,12 +1,12 @@
-# Interviewbit Algo Problem Solutions (Count = 2)
+# Interviewbit Algo Problem Solutions 
 
 
 ## Algorithms
 
-* [Arrays](https://github.com/keen-learner/interviewbit#Arrays)
-* [Math](https://github.com/keen-learner/interviewbit#Math)
+* [Arrays](https://github.com/keen-learner/interviewbit#arrays)
+* [Math](https://github.com/keen-learner/interviewbit#math)
 * [Binary Search](https://github.com/keen-learner/interviewbit#binary-search)
-* [Strings](https://github.com/keen-learner/interviewbit#Strings)
+* [Strings](https://github.com/keen-learner/interviewbit#strings)
 * [Bit Manipulation](https://github.com/keen-learner/interviewbit#bit-manipulation)
 * [Two Pointers](https://github.com/keen-learner/interviewbit#two-pointers)
 * [Linked Lists](https://github.com/keen-learner/interviewbit#linkedlists)
@@ -20,7 +20,7 @@
 * [Graphs](https://github.com/keen-learner/interviewbit#graphs)
 
 ## Arrays
-Count = 10
+Count = 12
 | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 [Add One To Number](https://www.interviewbit.com/problems/add-one-to-number/) | [C++](./arrays/AddOneToNumber.cpp) | |tricky  | 28 March 2017 |
