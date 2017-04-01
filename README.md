@@ -4,7 +4,7 @@
 ## Algorithms
 
 * [Arrays (Count = 12)](https://github.com/keen-learner/interviewbit#arrays)
-* [Math](https://github.com/keen-learner/interviewbit#math)
+* [Math ](https://github.com/keen-learner/interviewbit#math)
 * [Binary Search](https://github.com/keen-learner/interviewbit#binary-search)
 * [Strings](https://github.com/keen-learner/interviewbit#strings)
 * [Bit Manipulation](https://github.com/keen-learner/interviewbit#bit-manipulation)
@@ -14,7 +14,7 @@
 * [Backtracking](https://github.com/keen-learner/interviewbit#backtracking)
 * [Hashing](https://github.com/keen-learner/interviewbit#hashing)
 * [Heaps and Maps](https://github.com/keen-learner/interviewbit#heaps-and-maps)
-* [Trees](https://github.com/keen-learner/interviewbit#trees)
+* [Trees (Count = 3)](https://github.com/keen-learner/interviewbit#trees)
 * [Dynamic Programming](https://github.com/keen-learner/interviewbit#dynamic-programming)
 * [Greedy](https://github.com/keen-learner/interviewbit#greedy)
 * [Graphs](https://github.com/keen-learner/interviewbit#graphs)
@@ -34,3 +34,11 @@
 [Spiral Order Matrix 1](https://www.interviewbit.com/problems/spiral-order-matrix-i/) | [C++](./arrays/SpiralOrderMatrix1.cpp) | | | 28 March 2017 |
 [Merge Intervals/Insert Interval](https://www.interviewbit.com/problems/merge-intervals/) | [C++](./arrays/MergeIntervals.cpp) | | | 30 March 2017 |
 [Merge Overlapping Intervals](https://www.interviewbit.com/problems/merge-overlapping-intervals/) | [C++](./arrays/MergeOverlappingIntervals.cpp) | | | 30 March 2017 |
+
+
+## Trees
+| Title                         |  Solution       | Tag          | Note                                  | Added on | 
+|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
+[Path Sum](https://www.interviewbit.com/problems/path-sum/) | [C++](./trees/PathSum.cpp) | |DFS, tree, recursion   | 31 March 2017 |
+[Max Depth Of Binary Tree](https://www.interviewbit.com/problems/max-depth-of-binary-tree/) | [C++](./trees/MaxDepthOfBinaryTree.cpp) | |DFS, tree, recursion   | 31 March 2017 |
+[Zigzag Level Order Traversal Bt](https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/) | [C++](./trees/ZigzagLevelOrderTraversalBt.cpp) | |BFS, tree, recursion, LevelOrderTraversal   | 31 March 2017 |
