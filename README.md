@@ -14,7 +14,7 @@
 * [Backtracking](https://github.com/keen-learner/interviewbit#backtracking)
 * [Hashing](https://github.com/keen-learner/interviewbit#hashing)
 * [Heaps and Maps](https://github.com/keen-learner/interviewbit#heaps-and-maps)
-* [Trees (Count = 4)](https://github.com/keen-learner/interviewbit#trees)
+* [Trees (Count = 5)](https://github.com/keen-learner/interviewbit#trees)
 * [Dynamic Programming](https://github.com/keen-learner/interviewbit#dynamic-programming)
 * [Greedy](https://github.com/keen-learner/interviewbit#greedy)
 * [Graphs](https://github.com/keen-learner/interviewbit#graphs)
@@ -42,4 +42,5 @@
 [Path Sum](https://www.interviewbit.com/problems/path-sum/) | [C++](./trees/PathSum.cpp) | |DFS, tree, recursion   | 31 March 2017 |
 [Max Depth Of Binary Tree](https://www.interviewbit.com/problems/max-depth-of-binary-tree/) | [C++](./trees/MaxDepthOfBinaryTree.cpp) | |DFS, tree, recursion   | 31 March 2017 |
 [Zigzag Level Order Traversal Bt](https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/) | [C++](./trees/ZigzagLevelOrderTraversalBt.cpp) | |BFS, tree, recursion, LevelOrderTraversal   | 31 March 2017 |
-[Min Depth of Binary Tree](https://www.interviewbit.com/problems/min-depth-of-binary-tree/) | [C++](./trees/MinDepthOfBinaryTree.cpp) | |BFS, tree, recursion, LevelOrderTraversal   | 31 March 2017 |
+[Min Depth of Binary Tree](https://www.interviewbit.com/problems/min-depth-of-binary-tree/) | [C++](./trees/MinDepthOfBinaryTree.cpp) | |BFS, tree, recursion, LevelOrderTraversal   | 4 April 2017 |
+[Identical Binary Trees](https://www.interviewbit.com/problems/identical-binary-trees/) | [C++](./trees/IdenticalBinaryTrees.cpp) | |tree, recursion | 4 April 2017 |
