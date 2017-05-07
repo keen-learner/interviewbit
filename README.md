@@ -6,7 +6,7 @@
 * [Arrays (Count = 12)](https://github.com/keen-learner/interviewbit#arrays)
 * [Math ](https://github.com/keen-learner/interviewbit#math)
 * [Binary Search](https://github.com/keen-learner/interviewbit#binary-search)
-* [Strings](https://github.com/keen-learner/interviewbit#strings)
+* [Strings (Count = 1)](https://github.com/keen-learner/interviewbit#strings)
 * [Bit Manipulation](https://github.com/keen-learner/interviewbit#bit-manipulation)
 * [Two Pointers](https://github.com/keen-learner/interviewbit#two-pointers)
 * [Linked Lists](https://github.com/keen-learner/interviewbit#linkedlists)
@@ -35,6 +35,10 @@
 [Merge Intervals/Insert Interval](https://www.interviewbit.com/problems/merge-intervals/) | [C++](./arrays/MergeIntervals.cpp) | | | 30 March 2017 |
 [Merge Overlapping Intervals](https://www.interviewbit.com/problems/merge-overlapping-intervals/) | [C++](./arrays/MergeOverlappingIntervals.cpp) | | | 30 March 2017 |
 
+## Strings
+| Title                         |  Solution       | Tag          | Note                                  | Added on | 
+|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
+[Power of 2](https://www.interviewbit.com/problems/power-of-2/) | [C++](./strings/PowerOf2.cpp) | |strings, tedious   | 7 May 2017 |
 
 ## Trees
 | Title                         |  Solution       | Tag          | Note                                  | Added on | 
