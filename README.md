@@ -9,7 +9,7 @@
 * [Strings (Count = 1)](https://github.com/keen-learner/interviewbit#strings)
 * [Bit Manipulation](https://github.com/keen-learner/interviewbit#bit-manipulation)
 * [Two Pointers](https://github.com/keen-learner/interviewbit#two-pointers)
-* [Linked Lists](https://github.com/keen-learner/interviewbit#linkedlists)
+* [Linked Lists (Count = 1)](https://github.com/keen-learner/interviewbit#linkedlists)
 * [Stacks and Queues](https://github.com/keen-learner/interviewbit#stacks-and-queues)
 * [Backtracking](https://github.com/keen-learner/interviewbit#backtracking)
 * [Hashing](https://github.com/keen-learner/interviewbit#hashing)
@@ -39,6 +39,11 @@
 | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 [Power of 2](https://www.interviewbit.com/problems/power-of-2/) | [C++](./strings/PowerOf2.cpp) | |strings, tedious   | 7 May 2017 |
+
+## LinkedLists
+| Title                         |  Solution       | Tag          | Note                                  | Added on | 
+|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
+[List Cycle](https://www.interviewbit.com/problems/list-cycle/) | [C++](./linkedlist/ListCycle.cpp) | | bit tricky   | 7 May 2017 |
 
 ## Trees
 | Title                         |  Solution       | Tag          | Note                                  | Added on | 
